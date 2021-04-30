@@ -4,10 +4,10 @@
 
 - Access and manipulate data in nested hashes
 
-## Epic Tragedy Returned
+## Introduction
 
 We are going to continue with our previous example of Shakespearean works. This
-time, we will spare you the literature lesson - the nested hashes of characters
+time, we will spare you the literature lesson — the nested hashes of characters
 are provided this time. Your task will be to access and modify those hashes.
 
 ## Instructions
