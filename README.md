@@ -1,8 +1,8 @@
-# Accessing Nested Hashes Code Along
+# Building Nested Hashes Code-Along Part 2
 
 ## Learning Goals
 
-- Access and manipulate data in nested hashes.
+- Access and manipulate data in nested hashes
 
 ## Epic Tragedy Returned
 
@@ -12,7 +12,7 @@ are provided this time. Your task will be to access and modify those hashes.
 
 ## Instructions
 
-## Manipulating A Hash
+### Manipulating A Hash
 
 In previous lessons, we learned that you can access a value in a hash like
 this:
@@ -95,7 +95,7 @@ puts epic_tragedy
 
 ![Montague/Capulet Family Tree w/ Michael Jordan](https://curriculum-content.s3.amazonaws.com/programming-univbasics-4/nested-hashes/Image_8_NestedHash.png)
 
-## Arrays in Hashes
+### Arrays in Hashes
 
 In the `epic_tragedy` hash, both the `:montague` and `:capulet` nested hashes
 contain arrays, `:hero_friends` and `heroine_friends`. Similar to how we chain
@@ -123,7 +123,7 @@ In `lib/updating_nested_hashes.rb`, your task is to finish two methods,
 be modified. Rather than directly change the hash, try to write a programmatic
 solution for modifying the hash content.
 
-## `update_status`
+### `update_status`
 
 For the `update_status` method,  you'll see an `epic_tragedy` hash is provided.
 We've come to the end of the epic tragedy of Romeo and Juliet. At this point in
@@ -132,7 +132,7 @@ the story, Romeo and Juliet are — as in every good tragedy — quite dead.
 Add code to the `update_status` method to change the status of our hero Romeo
 and our heroine Juliet from "alive" to "dead".
 
-## `fix_roles`
+### `fix_roles`
 
 In the second method for this lab, `add_characters`, we are starting again with
 an `epic_tragedy` hash. This time your task is to add some nested content into
